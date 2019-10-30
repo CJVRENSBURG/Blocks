@@ -1,5 +1,5 @@
 # Blocks
-This is block game build with pygame-python 3.7
+This is a block game build with pygame-python 3.7
 
 HOW TO RUN THE GAME:
 
